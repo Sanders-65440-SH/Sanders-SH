@@ -1,41 +1,39 @@
 
 {
-  "squadName" : "Super Hero Squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
-  "secretBase" : "Super tower",
+  "squadName" : "The Avengers",
+  "homeTown" : "Mexico City",
+  "formed" : 2022,
+  "secretBase" : "Super heroes",
   "active" : true,
   "members" : [
     {
-      "name" : "Molecule Man",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
+      "name" : "Capitan America",
+      "age" : 22,
+      "secretIdentity" : "stif rogers",
       "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+        "super fuerza",
+        "avilidad para pelear sin armas"
+        
       ]
     },
     {
-      "name" : "Madame Uppercut",
+      "name" : "Black Widow",
       "age" : 39,
-      "secretIdentity" : "Jane Wilson",
+      "secretIdentity" : "Romanof ",
       "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+        "avilidad para peliar sin armas",
+        "super ezpia",
+        "inteligencia superior"
       ]
     },
     {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
+      "name" : "Hombre Araña
+      "age" : 21
+      "secretIdentity" : "Phiter Parker",
       "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+        "super fuerza",
+        "super sentidos",
+        "telarañas"
       ]
     }
   ]
