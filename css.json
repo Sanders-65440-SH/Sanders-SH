@@ -1,40 +1,34 @@
-
-{
-  "squadName" : "The Avengers",
+ "squadName" : "The Avengers",
   "homeTown" : "Mexico City",
   "formed" : 2022,
-  "secretBase" : "Super heroes",
+  "secretBase" : "Super tower",
   "active" : true,
   "members" : [
     {
       "name" : "Capitan America",
-      "age" : 22,
-      "secretIdentity" : "stif rogers",
+      "age" : 29,
+      "secretIdentity" : "Estibe Rollers",
       "powers" : [
-        "super fuerza",
-        "avilidad para pelear sin armas"
-        
+        "Super fuerza"
       ]
     },
     {
-      "name" : "Black Widow",
-      "age" : 39,
-      "secretIdentity" : "Romanof ",
-      "powers" : [
-        "avilidad para peliar sin armas",
-        "super ezpia",
-        "inteligencia superior"
-      ]
-    },
-    {
-      "name" : "Hombre Araña"
+      "name" : "Hombre Araña",
       "age" : 21,
-      "secretIdentity" : "Phiter Parker",
+      "secretIdentity" : "Pitter Parker",
       "powers" : [
-        "super fuerza",
-        "super sentidos",
-        "telarañas"
-      
+        " Super Fuerza",
+        "poderes Aracnidos"
+      ]
+    },
+    {
+      "name" : "Blac Wido",
+      "age" : 30,
+      "secretIdentity" : "Natasha Romanof",
+      "powers" : [
+        "Combate sin armas",
+        "Espia",
+        "Asesina"
       ]
     }
   ]
